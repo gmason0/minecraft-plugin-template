@@ -1,0 +1,5 @@
+main: "${PACKAGE}.${NAME}"
+name: "${NAME}"
+version: "${VERSION}"
+author: "gmason0"
+description: "An Example PaperMC Spigot Plugin"
